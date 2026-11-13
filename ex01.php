@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Ma page</title>
+<title>EXERCICE 01</title>
 </head>
 <body>
    <?php
@@ -11,6 +11,6 @@
      //  un commentaire sur une ligne 
      /*un commentaire sur plusieurs lignes*/
    ?>
-   <?= "imane" ?>
+   <?= "PHP" ?>
 </body>
 </html>
